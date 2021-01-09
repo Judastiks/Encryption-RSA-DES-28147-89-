@@ -1,0 +1,14 @@
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe.config
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.exe
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\Kurs2.pdb
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.Form1.resources
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.Properties.Resources.resources
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.exe
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.pdb
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\AWSSDK.Core.dll
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Костя\source\repos\Kurs2\Kurs2\bin\Debug\AWSSDK.Core.xml
+C:\Users\Костя\source\repos\Kurs2\Kurs2\obj\Debug\Kurs2.csproj.CopyComplete
